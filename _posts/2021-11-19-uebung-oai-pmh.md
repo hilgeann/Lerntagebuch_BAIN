@@ -8,7 +8,7 @@ In diese Collection wurde dann ein Beispieldokument hochgeladen. Es gibt nur wen
 Nun einen Tag später, sind die Daten über die OAI-PMH-Schnittstelle abrufbar. Über die List of Sets in DSpace erscheinen alle Communities und Collections. Die von mir erstellte Collection enthält nun unter Records ein Item. Auf dieser Ebene sind nun die beim Upload festgelegten Metadaten einsehbar. Wie vorhin erwähnt sind die obligatorischen Felder Titel und Datum hinterlegt, wobei das Feld «date» hier drei Mal in zwei unterschiedlichen Formaten auftaucht. Eines davon könnte evtl. für das Embargo Date stehen, jedoch wird dies aus den DC Daten nicht sichtbar. Ausserdem erkennt man die Angabe «Presentation» als freiwillige Angabe zur Beschreibung des Dokuments. Hier mit dem DC-Feld «type» angegeben. Ausserdem wurden automatisch noch die Felder «identifier», also der direkte Link zum Dokument, sowie das Feld «format» hinzugefügt.
 Wie in der Übung beschrieben, habe ich diese Metadaten dann in den TextEditor kopiert und gesichert.
 
-![screenshot_ansicht_metadaten_im_texteditor](<img width="454" alt="grafik" src="https://user-images.githubusercontent.com/90834619/142905024-473433b7-c303-46dd-bb18-43c331e0a3c7.png">)
+<img width="454" alt="grafik" src="https://user-images.githubusercontent.com/90834619/142905024-473433b7-c303-46dd-bb18-43c331e0a3c7.png">
 
 Nachtrag zur Übung aus Lehreinheit 4:
 
