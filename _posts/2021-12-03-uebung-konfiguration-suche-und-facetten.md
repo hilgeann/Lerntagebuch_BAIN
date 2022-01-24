@@ -1,7 +1,9 @@
 ---
-title: "Übung - VuFind: Konfiguration Suche und Facetten"
+title: "Übung"
 date: 2021-12-03
 ---
+
+VuFind: Konfiguration Suche und Facetten
 
 Zur Vorbereitung auf die LE 8 mussten wir die Installation von VuFind vornehmen. Dank der Unterstützung durch die Dozierenden hat die Installation dann beim dritten Anlauf geklappt. Über die für uns relevanten Hinweise zur Installation und den kurzen Erklärungen dazu, fühlte ich mich besser aufgehoben, als wenn ich alles gemäss der Anleitung auf der VuFind-Website hätte machen müssen. Auch der Testimport von Beispieldaten hat funktioniert. Als ich das Programm dann wieder öffne, um mögliche Inhalte parallel zum Einführungsvideo auszuprobieren, musste ich feststellen, dass Solr separat im Terminal gestartet werden muss, damit beim Aufrufen der Website keine Fehlermeldung angezeigt wird. 
 Begonnen wird mit der Suchfunktion, so wird z.B. gezeigt, dass man über die «…searches.ini» Datei festlegen kann, in welcher Reihenfolge die Facetten im Dropdown der Basissuche erscheinen. Und tatsächlich, ein Verschieben der ISBN/ISBN im Dokument «searches» hat eine direkt sichtbare Auswirkung. Beim Advanced Searches, sieht man links die Search Handlers und rechts die sogenannten Translation Strings. Diese können beliebig vergeben werden, man muss aber wissen, dass diese in jeder verfügbaren Sprache vorhanden sein müssen, damit sie korrekt übersetzt werden können. Die Elemente mit Semikolon sind auskommentiert, da nur in wenigen Fällen nützlich.
