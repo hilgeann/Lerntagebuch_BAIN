@@ -1,6 +1,6 @@
 ---
-title: "Tag 8"
-date: 2021-12-16
+title: "Abschlussartikel"
+date: 2022-01-24
 ---
 
 Was habe ich (nicht) gelernt?
