@@ -1,7 +1,9 @@
 ---
-title: "Übung - OAI-PMH"
+title: "Übung"
 date: 2021-11-19
 ---
+
+DSpace: OAI-PMH-Schnittstelle
 
 Während dieser Lehreinheit haben wir mit der Demoversion von DSpace gearbeitet. In der Rolle als Community Administrator wurde in der BAIN bzw. Sample Community für unseren Kurs eine Sub-Community erstellt und darin wiederum eine neue Collection.
 In diese Collection wurde dann ein Beispieldokument hochgeladen. Es gibt nur wenige Pflichtfelder über Metadaten, welche ausgefüllt werden müssen, dazu gehören Titel und Datum. In einem nächsten Schritt können optional noch eine Beschreibung und ein so genanntes Embargodatum festgelegt werden, welches die Frist angibt, nach welcher das Dokument für alle ausser Administratoren nicht mehr sichtbar/herunterladbar sein wird. Dann kann das Dokument eingereicht und veröffentlicht werden. Einen Begutachtungsprozess hatte ich beim Anlegen der Collection nicht aktiviert, weshalb das Dokument diesen dann nicht durchlaufen musste.
